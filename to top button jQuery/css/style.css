@@ -1,0 +1,17 @@
+body {
+    width: 50%;
+    margin: auto;
+    text-align: center;
+}
+
+.progress-wrap::after {
+    font-family: "Font Awesome 5 Free";
+    font-weight: 900;
+    content: '\f062';
+}
+
+.progress-wrap::before {
+    font-family: "Font Awesome 5 Free";
+    font-weight: 900;
+    content: '\f062';
+}
